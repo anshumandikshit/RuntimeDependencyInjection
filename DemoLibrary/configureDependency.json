@@ -1,0 +1,17 @@
+{
+  "MyStringProperty": "StringValue",
+  "MyIntegerProperty": 1,
+  "MySubDocument": {
+    "SubDocumentProperty": "SubDocumentValue"
+  },
+  "InterfaceNames": [
+    "ILogger",
+    "IDataAccess"
+
+  ],
+  "ClassNames": [
+    "Logger",
+    "DataAccess"
+
+  ]
+}

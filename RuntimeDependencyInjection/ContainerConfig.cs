@@ -56,9 +56,8 @@ namespace RuntimeDependencyInjection
 
         private static void LoadDllDynamically()
         {
-            string sourcePath = @"C:\Users\anshumand\Desktop\netcoreapp2.2";
-            string destPath = @"C:\Users\anshumand\Documents\Visual Studio 2017\Projects\RuntimeDependencyInjection\RuntimeDependencyInjection\bin\Debug\netcoreapp2.2";
-
+            string sourcePath = @"sorceFilePath";
+            string destPath = @"Destination path or bin folder of the solutionfile";
             string sourceFileName = "DemoLibrary.dll";
             string destFileName = "DemoLibrary.dll";
 
